@@ -7,11 +7,10 @@
 #include "SimpleShooterGameModeBase.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class SIMPLESHOOTER_API ASimpleShooterGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
 };
