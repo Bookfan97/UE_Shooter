@@ -14,7 +14,7 @@ class SIMPLESHOOTER_API AShooterCharacter : public ACharacter
 public:
 	// Sets default values for this character's properties
 	AShooterCharacter();
-	
+
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -28,4 +28,8 @@ protected:
 private:
 	void MoveForward(float AxisValue);
 	void MoveRight(float AxisValue);
+	void LookUpRate(float AxisValue);
+	void LookRightRate(float AxisValue);
+	UPROPERTY(EditAnywhere)
+		float RotationRate = 70;
 };
