@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Animations/ABP_ShooterCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleShooter.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleShooter.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +263,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594942570668</updated>
-      <workItem from="1594942619029" duration="5762000" />
+      <workItem from="1594942619029" duration="6354000" />
     </task>
     <servers />
   </component>
