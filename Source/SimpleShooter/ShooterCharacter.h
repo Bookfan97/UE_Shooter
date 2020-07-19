@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Gun.h"
 #include "GameFramework/Character.h"
 #include "ShooterCharacter.generated.h"
 
@@ -32,4 +33,9 @@ private:
 	void LookRightRate(float AxisValue);
 	UPROPERTY(EditAnywhere)
 		float RotationRate = 70;
+	UPROPERTY(EditDefaultsOnly)
+		TSubclassOf<AGun> GunClass;
+	UPROPERTY()
+		AGun* Gun;
+	void Shoot();
 };

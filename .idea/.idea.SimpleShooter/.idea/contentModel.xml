@@ -43383,6 +43383,7 @@
         <e p="DefaultEditor.ini" t="Include" />
         <e p="DefaultEngine.ini" t="Include" />
         <e p="DefaultGame.ini" t="Include" />
+        <e p="DefaultInput.ini" t="Include" />
       </e>
       <e p="Engine" t="Include" />
       <e p="Games" t="Include" />
@@ -43397,6 +43398,8 @@
       <e p="SimpleShooter.uproject" t="Include" />
       <e p="Source" t="Include">
         <e p="SimpleShooter" t="Include">
+          <e p="Gun.cpp" t="Include" />
+          <e p="Gun.h" t="Include" />
           <e p="MyPawn.cpp" t="Include" />
           <e p="MyPawn.h" t="Include" />
           <e p="ShooterCharacter.cpp" t="Include" />
