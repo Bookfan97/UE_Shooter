@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/ABP_ShooterCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animations/ABP_ShooterCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" afterDir="false" />
     </list>
@@ -27,8 +26,8 @@
       <list>
         <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
       </list>
     </option>
   </component>
@@ -273,6 +272,7 @@
       <updated>1594942570668</updated>
       <workItem from="1594942619029" duration="6354000" />
       <workItem from="1595116157250" duration="9355000" />
+      <workItem from="1595633484766" duration="516000" />
     </task>
     <servers />
   </component>
