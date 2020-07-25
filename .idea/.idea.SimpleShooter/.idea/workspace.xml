@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/AI/BB_EnemyAI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/AI/BP_ShooterAIController.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/AI/BT_EnemyAI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Animations/ABP_ShooterCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animations/ABP_ShooterCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleShooter.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleShooter.uproject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +28,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/Gun.h" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -28,6 +44,11 @@
         <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" />
       </list>
     </option>
   </component>
@@ -272,7 +293,7 @@
       <updated>1594942570668</updated>
       <workItem from="1594942619029" duration="6354000" />
       <workItem from="1595116157250" duration="9355000" />
-      <workItem from="1595633484766" duration="516000" />
+      <workItem from="1595633484766" duration="8007000" />
     </task>
     <servers />
   </component>
