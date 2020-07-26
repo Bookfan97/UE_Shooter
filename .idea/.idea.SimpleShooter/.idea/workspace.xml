@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/AI/BB_EnemyAI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AI/BP_ShooterAIController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/AI/BT_EnemyAI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_ShooterCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleShooter.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleShooter.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/BT_EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_EnemyAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,25 +28,37 @@
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/Gun.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_Shoot.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
       </list>
     </option>
   </component>
@@ -294,6 +304,7 @@
       <workItem from="1594942619029" duration="6354000" />
       <workItem from="1595116157250" duration="9355000" />
       <workItem from="1595633484766" duration="8007000" />
+      <workItem from="1595720672164" duration="6675000" />
     </task>
     <servers />
   </component>
@@ -302,5 +313,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="944" y="407" key="RiderGenerateDialog" timestamp="1595726477689">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="944" y="407" key="RiderGenerateDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1595726477689" />
   </component>
 </project>

@@ -43398,8 +43398,14 @@
       <e p="SimpleShooter.uproject" t="Include" />
       <e p="Source" t="Include">
         <e p="SimpleShooter" t="Include">
+          <e p="BTService_PlayerLocation.cpp" t="Include" />
+          <e p="BTService_PlayerLocation.h" t="Include" />
+          <e p="BTService_PlayerLocationIfSeen.cpp" t="Include" />
+          <e p="BTService_PlayerLocationIfSeen.h" t="Include" />
           <e p="BTTask_ClearBlackboardValue.cpp" t="Include" />
           <e p="BTTask_ClearBlackboardValue.h" t="Include" />
+          <e p="BTTask_Shoot.cpp" t="Include" />
+          <e p="BTTask_Shoot.h" t="Include" />
           <e p="Gun.cpp" t="Include" />
           <e p="Gun.h" t="Include" />
           <e p="MyPawn.cpp" t="Include" />
