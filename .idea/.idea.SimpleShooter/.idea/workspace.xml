@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Essentials/BP_KillEmAllGameMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/WBP_LoseScreen.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Essentials/BP_ShooterGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Essentials/BP_ShooterGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MapTest_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +60,8 @@
         <option value="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" />
       </list>
     </option>
   </component>
@@ -317,7 +307,7 @@
       <workItem from="1594942619029" duration="6354000" />
       <workItem from="1595116157250" duration="9355000" />
       <workItem from="1595633484766" duration="8007000" />
-      <workItem from="1595720672164" duration="10504000" />
+      <workItem from="1595720672164" duration="11361000" />
     </task>
     <servers />
   </component>
