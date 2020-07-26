@@ -43408,12 +43408,16 @@
           <e p="BTTask_Shoot.h" t="Include" />
           <e p="Gun.cpp" t="Include" />
           <e p="Gun.h" t="Include" />
+          <e p="KillEmAllGameMode.cpp" t="Include" />
+          <e p="KillEmAllGameMode.h" t="Include" />
           <e p="MyPawn.cpp" t="Include" />
           <e p="MyPawn.h" t="Include" />
           <e p="ShooterAIController.cpp" t="Include" />
           <e p="ShooterAIController.h" t="Include" />
           <e p="ShooterCharacter.cpp" t="Include" />
           <e p="ShooterCharacter.h" t="Include" />
+          <e p="ShooterPlayerController.cpp" t="Include" />
+          <e p="ShooterPlayerController.h" t="Include" />
           <e p="SimpleShooter.Build.cs" t="Include" />
           <e p="SimpleShooter.cpp" t="Include" />
           <e p="SimpleShooter.h" t="Include" />
