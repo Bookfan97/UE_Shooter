@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7d881-24c5-4d13-9823-ea2a5f1dc064" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/UI/WBP_WinScreen.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimpleShooter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterAIController.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooter.Build.cs" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTTask_ClearBlackboardValue.cpp" />
@@ -56,7 +53,6 @@
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocation.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/BTService_PlayerLocationIfSeen.cpp" />
-        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/SimpleShooterGameModeBase.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterCharacter.cpp" />
@@ -66,6 +62,8 @@
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.cpp" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/ShooterPlayerController.h" />
         <option value="$PROJECT_DIR$/Source/SimpleShooter/KillEmAllGameMode.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.cpp" />
+        <option value="$PROJECT_DIR$/Source/SimpleShooter/Gun.h" />
       </list>
     </option>
   </component>
@@ -312,7 +310,7 @@
       <workItem from="1595116157250" duration="9355000" />
       <workItem from="1595633484766" duration="8007000" />
       <workItem from="1595720672164" duration="11718000" />
-      <workItem from="1595792438018" duration="2623000" />
+      <workItem from="1595792438018" duration="5566000" />
     </task>
     <servers />
   </component>

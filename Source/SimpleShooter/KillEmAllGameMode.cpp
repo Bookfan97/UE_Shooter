@@ -18,7 +18,7 @@ void AKillEmAllGameMode::PawnKilled(APawn* PawnKilled)
 	{
 		if (!AIController->IsDead())
 		{
-			return;	
+			return;
 		}
 	}
 	EndGame(true);
